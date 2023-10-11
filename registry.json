@@ -18,6 +18,11 @@
       "name":"College Unbound",
       "location":"Providence, RI, USA",
       "url":"https://collegeunbound.edu"
+    },
+    "did:key:z6MkmYGgibfx6dbjXHTzqwvyC4vhM3oEPK9GdH7xkqBFxWAH":{
+      "name":"Demo University",
+      "location":"Cambridge, MA, USA",
+      "url":"https://digitalcredentials.mit.edu/"
     }
   }
 }
